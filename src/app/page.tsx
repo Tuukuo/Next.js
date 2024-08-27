@@ -274,7 +274,7 @@ ullamco laboris nisi ut aliquip ex ea commodo  </p>
 </div>
 <div className="pl-[300px] mt-[100px]">
 <p className="text-amber-500 text-[30px]">Download Our App</p>
-<p className="font-bold text-[70px] ">It's all Here.<br></br>All in one App</p>
+<p className="font-bold text-[70px] ">It is all Here.<br></br>All in one App</p>
 <p className="text-gray-400 text-[20px]">Discover local on-demand delivery or pickup from<br></br> restaurants, nearby grocery and convenience stores,<br></br>and more </p>
 <div className="mt-[100px] flex gap-[100px]">
 <div className="flex items-center bg-slate-800 rounded-md p-3">
